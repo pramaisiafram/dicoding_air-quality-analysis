@@ -1,1 +1,1 @@
-[isi dengan link Streamlit Cloud setelah deploy]
+https://dicodingair-quality-analysis-rlb6nryzfsde2fipwe33qp.streamlit.app/
